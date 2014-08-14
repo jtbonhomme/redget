@@ -1,0 +1,6 @@
+{
+  "host":   "http://redmine.org",
+  "user":   "foo",
+  "passwd": "secret",
+  "query":  1234
+}
