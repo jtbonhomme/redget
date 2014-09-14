@@ -25,7 +25,8 @@ Options
   --help    -h            display this text
   --version -v            output version
   --host    -t <url>      redmine host url (shall end with /)
-  --query   -q <query_id> redmine query id to be used (shall be visible by the user specified)
+  --query   -q <query_id> redmine query id to be used (shall be visible by the specified user)
+  --users   -u            get all users (shall be accessible by the specified user)
   --key     -k <apikey>   redmine user api key to be used
 ```
 
