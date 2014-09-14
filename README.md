@@ -47,4 +47,6 @@ Examples
 
   redget config.json (path shall be relative)
   redget -t http://redmine.org/projects/myproject/ -q 1234 -k 1A2E3F4D5C671A2E3F4D5C67"
+  redget -t http://redmine.org/ -u
 
+Note: do not forget the trailing '/' at the end of the host url (to be fixed later)
